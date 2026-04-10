@@ -1,4 +1,4 @@
-# https://jhops.me
+#  Website offline
 
 This repository contains the source code, configuration management, and scripts for my personal website which is a fullstack application built with a Next.js frontend, FastAPI Backend, is deployed on AWS using Terraform, and orchestrated via Docker and GitHub Actions. 
 
